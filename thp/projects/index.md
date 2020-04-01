@@ -3,7 +3,7 @@
 
 <body>
   
-  Hello world! test
+  <p>Ceci est la future page thp projects</p>
 
 </body>
 
