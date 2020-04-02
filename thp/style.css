@@ -1,4 +1,53 @@
 
+/* HTML file customisation */
+
+html {
+  color: #ff0000;
+}
+
+/* Body customisation */
+
 body {
+  /* Google fonts call */
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+
+/* Navbar css */
+
+header {
+	display: flex;
+}
+
+nav {
+	display: flex;
+	color: #000000;
+}
+
+/* Main css */
+
+#main {
+	display: flex;
+	color: #000000;
+}
+
+section {
+	display: flex;
+}
+
+article {
+	display: flex;
+}
+
+/* Footer css */
+
+footer {
+	display: flex;
+	color: #000000;
+}
+
+/* Footer specific class call
+#footer .class{
 	color: #ff0000;
 }
+*/
